@@ -8,5 +8,9 @@ namespace DataAdapter
 {
     class Class1
     {
+        public void Show()
+        {
+            
+        }
     }
 }
